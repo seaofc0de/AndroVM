@@ -10,7 +10,7 @@ It mimics a minimal Android system within a secure sandboxed UI.
 
 ##  Features
 
-- Virtual boot screen with custom device name
+- Virtual bootloader
 - Safe, isolated environment inside your Android device
 - Designed for all of Android devices
 
