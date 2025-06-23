@@ -3,7 +3,7 @@
 <p align="center">
   <img src="logo.jpeg" alt="App Manager Logo" height="150dp">
   <h1 align="center">AndroVM</h1>
-**AndroVM** is a lightweight simulated virtual machine environment built for Android devices.  
+  <b>AndroVM</b> is a lightweight simulated virtual machine environment built for Android devices.  
 It mimics a minimal Android system within a secure sandboxed UI.
 
 ---
