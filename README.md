@@ -12,9 +12,7 @@ It mimics a minimal Android system within a secure sandboxed UI.
 
 - Virtual boot screen with custom device name
 - Safe, isolated environment inside your Android device
-- Accepts and displays user-defined device names
-- Designed for older tablets and phones
-- Built entirely with Sketchware Pro (no root required)
+- Designed for all of Android devices
 
 ---
 
